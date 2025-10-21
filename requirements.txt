@@ -8,7 +8,6 @@ moviepy==1.0.3
 cartopy
 pillow
 audioop-lts
-pyaudioop; python_version>='3.13'
 imageio
 imageio-ffmpeg
 tqdm
